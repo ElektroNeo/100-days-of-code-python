@@ -11,5 +11,9 @@
 **Link of Work:** [Day-000](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-000)
 
 ## Day 1: August 12, 2020
-**Today's Progress:** I learned how to make strings, lists, read files, dictionaries and, tuples.
+**Today's Progress:** I learned how to make strings, lists, read files, dictionaries, and tuples.
 **Link of Work:** [Day-001](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-001)
+
+## Day 2: August 13, 2020
+**Today's Progress:** I learned how to make sort dictionaries by values, use of regular expression, and start of networking.
+**Link of Work:** [Day-002](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-002)

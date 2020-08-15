@@ -21,3 +21,7 @@
 ## Day 3: August 14, 2020
 **Today's Progress:** I learned how to get data from the internet and I build geo location app with Yandex Maps API Geocoder.<br />
 **Link of Work:** [Day-003](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-003)
+
+## Day 4: August 15, 2020
+**Today's Progress:** I learned how to create and use classes, inheritances, and databases.<br />
+**Link of Work:** [Day-004](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-004)

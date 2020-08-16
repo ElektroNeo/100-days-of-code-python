@@ -25,3 +25,7 @@
 ## Day 4: August 15, 2020
 **Today's Progress:** I learned how to create and use classes, inheritances, and databases.<br />
 **Link of Work:** [Day-004](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-004)
+
+## Day 5: August 16, 2020
+**Today's Progress:** I start to Arithmetic Formatter Project.<br />
+**Link of Work:** [Day-005](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-005)

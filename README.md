@@ -29,3 +29,7 @@
 ## Day 5: August 16, 2020
 **Today's Progress:** I start to Arithmetic Formatter Project.<br />
 **Link of Work:** [Day-005](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-005)
+
+## Day 6: August 17, 2020
+**Today's Progress:** I finished Arithmetic Formatter Project.<br />
+**Link of Work:** [Day-006](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-006)

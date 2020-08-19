@@ -34,6 +34,10 @@
 **Today's Progress:** I finished Arithmetic Formatter Project.<br />
 **Link of Work:** [Day-006](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-006)
 
-## Day 6: August 18, 2020
+## Day 7: August 18, 2020
 **Today's Progress:** I started and finished Time Calculator Project.<br />
 **Link of Work:** [Day-007](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-007)
+
+## Day 8: August 19, 2020
+**Today's Progress:** I started to the Budget App Project.<br />
+**Link of Work:** [Day-008](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-008)

@@ -41,3 +41,7 @@
 ## Day 8: August 19, 2020
 **Today's Progress:** I started to the Budget App Project.<br />
 **Link of Work:** [Day-008](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-008)
+
+## Day 9-10: August 20-21, 2020
+**Today's Progress:** I finished the Budget App Project.<br />
+**Link of Work:** [Day-009-010](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-009-010)

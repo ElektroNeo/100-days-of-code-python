@@ -45,3 +45,7 @@
 ## Day 9-10: August 20-21, 2020
 **Today's Progress:** I finished the Budget App Project.<br />
 **Link of Work:** [Day-009-010](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-009-010)
+
+## Day 11: August 22, 2020
+**Today's Progress:** I started and finished the Shape Calculator Project.<br />
+**Link of Work:** [Day-011](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-011)

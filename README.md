@@ -49,3 +49,7 @@
 ## Day 11: August 22, 2020
 **Today's Progress:** I started and finished the Shape Calculator Project.<br />
 **Link of Work:** [Day-011](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-011)
+
+## Day 12: August 23, 2020
+**Today's Progress:** I started and finished the Probability Calculator Project.<br />
+**Link of Work:** [Day-012](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-012)

@@ -53,3 +53,7 @@
 ## Day 12: August 23, 2020
 **Today's Progress:** I started and finished the Probability Calculator Project.<br />
 **Link of Work:** [Day-012](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-012)
+
+## Day 13: August 24, 2020
+**Today's Progress:** I started to Data Analysis with Python Course and learned Jupyter Notebooks and numpy library.<br />
+**Link of Work:** [Day-013](https://github.com/ElektroNeo/100-days-of-code-python/tree/master/Day-013)
